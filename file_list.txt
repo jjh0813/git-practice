@@ -1,1 +1,7 @@
-
+README.md
+file_list.txt
+hello_world
+history_command.txt
+myscript.sh*
+sorted_words.txt
+words.txt
