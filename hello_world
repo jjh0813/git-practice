@@ -1,0 +1,8 @@
+total 9.0K
+-rw-r--r-- 1 zzagg 197609 230 Oct 18 20:20 README.md
+-rw-r--r-- 1 zzagg 197609   1 Oct 18 20:17 file_list.txt
+-rw-r--r-- 1 zzagg 197609   0 Oct 18 20:38 hello_world
+-rw-r--r-- 1 zzagg 197609 611 Oct 18 20:21 history_command.txt
+-rwxr-xr-x 1 zzagg 197609  73 Oct 18 20:34 myscript.sh*
+-rw-r--r-- 1 zzagg 197609  30 Oct 18 20:19 sorted_words.txt
+-rw-r--r-- 1 zzagg 197609  29 Oct 18 20:17 words.txt
